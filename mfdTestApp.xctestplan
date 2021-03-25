@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "D3094F36-A983-454F-8903-21E0BC342637",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:mfdTestApp.xcodeproj",
+      "identifier" : "1B37C2F8252FC58D0068AECE",
+      "name" : "mfdTestApp iOS"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
